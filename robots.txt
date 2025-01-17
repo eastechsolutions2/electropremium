@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
+Disallow: /framer-domain/
 Sitemap: https://electropremium.com.ar/sitemap.xml
